@@ -1,0 +1,195 @@
+/*
+SCSS variables are information about icon's compiled state, stored under its original file name
+
+.icon-home {
+  width: $icon-home-width;
+}
+
+The large array-like variables contain all information about a single icon
+$icon-home: x y offset_x offset_y width height total_width total_height image_path;
+
+At the bottom of this section, we provide information about the spritesheet itself
+$spritesheet: width height image $spritesheet-sprites;
+*/
+$-h-i-t-name: 'HIT';
+$-h-i-t-x: 0px;
+$-h-i-t-y: 295px;
+$-h-i-t-offset-x: 0px;
+$-h-i-t-offset-y: -295px;
+$-h-i-t-width: 74px;
+$-h-i-t-height: 73px;
+$-h-i-t-total-width: 294px;
+$-h-i-t-total-height: 2182px;
+$-h-i-t-image: 'sprite.png';
+$-h-i-t: (0px, 295px, 0px, -295px, 74px, 73px, 294px, 2182px, 'sprite.png', 'HIT', );
+$-iphone-screen-1-copy-name: 'Iphone screen #1 copy';
+$-iphone-screen-1-copy-x: 0px;
+$-iphone-screen-1-copy-y: 398px;
+$-iphone-screen-1-copy-offset-x: 0px;
+$-iphone-screen-1-copy-offset-y: -398px;
+$-iphone-screen-1-copy-width: 186px;
+$-iphone-screen-1-copy-height: 382px;
+$-iphone-screen-1-copy-total-width: 294px;
+$-iphone-screen-1-copy-total-height: 2182px;
+$-iphone-screen-1-copy-image: 'sprite.png';
+$-iphone-screen-1-copy: (0px, 398px, 0px, -398px, 186px, 382px, 294px, 2182px, 'sprite.png', 'Iphone screen #1 copy', );
+$-iphone-screen-2-copy-3-name: 'Iphone screen #2 copy 3';
+$-iphone-screen-2-copy-3-x: 0px;
+$-iphone-screen-2-copy-3-y: 810px;
+$-iphone-screen-2-copy-3-offset-x: 0px;
+$-iphone-screen-2-copy-3-offset-y: -810px;
+$-iphone-screen-2-copy-3-width: 186px;
+$-iphone-screen-2-copy-3-height: 382px;
+$-iphone-screen-2-copy-3-total-width: 294px;
+$-iphone-screen-2-copy-3-total-height: 2182px;
+$-iphone-screen-2-copy-3-image: 'sprite.png';
+$-iphone-screen-2-copy-3: (0px, 810px, 0px, -810px, 186px, 382px, 294px, 2182px, 'sprite.png', 'Iphone screen #2 copy 3', );
+$-iphone-screen-3-copy-2-name: 'Iphone screen #3 copy 2';
+$-iphone-screen-3-copy-2-x: 0px;
+$-iphone-screen-3-copy-2-y: 1222px;
+$-iphone-screen-3-copy-2-offset-x: 0px;
+$-iphone-screen-3-copy-2-offset-y: -1222px;
+$-iphone-screen-3-copy-2-width: 186px;
+$-iphone-screen-3-copy-2-height: 382px;
+$-iphone-screen-3-copy-2-total-width: 294px;
+$-iphone-screen-3-copy-2-total-height: 2182px;
+$-iphone-screen-3-copy-2-image: 'sprite.png';
+$-iphone-screen-3-copy-2: (0px, 1222px, 0px, -1222px, 186px, 382px, 294px, 2182px, 'sprite.png', 'Iphone screen #3 copy 2', );
+$-iphone-screen-3-big-name: 'Iphone screen #3-big';
+$-iphone-screen-3-big-x: 0px;
+$-iphone-screen-3-big-y: 1634px;
+$-iphone-screen-3-big-offset-x: 0px;
+$-iphone-screen-3-big-offset-y: -1634px;
+$-iphone-screen-3-big-width: 268px;
+$-iphone-screen-3-big-height: 548px;
+$-iphone-screen-3-big-total-width: 294px;
+$-iphone-screen-3-big-total-height: 2182px;
+$-iphone-screen-3-big-image: 'sprite.png';
+$-iphone-screen-3-big: (0px, 1634px, 0px, -1634px, 268px, 548px, 294px, 2182px, 'sprite.png', 'Iphone screen #3-big', );
+$-p-i-n-k-copy-2-name: 'PINK copy 2';
+$-p-i-n-k-copy-2-x: 0px;
+$-p-i-n-k-copy-2-y: 155px;
+$-p-i-n-k-copy-2-offset-x: 0px;
+$-p-i-n-k-copy-2-offset-y: -155px;
+$-p-i-n-k-copy-2-width: 146px;
+$-p-i-n-k-copy-2-height: 40px;
+$-p-i-n-k-copy-2-total-width: 294px;
+$-p-i-n-k-copy-2-total-height: 2182px;
+$-p-i-n-k-copy-2-image: 'sprite.png';
+$-p-i-n-k-copy-2: (0px, 155px, 0px, -155px, 146px, 40px, 294px, 2182px, 'sprite.png', 'PINK copy 2', );
+$-p-i-n-k-name: 'PINK';
+$-p-i-n-k-x: 0px;
+$-p-i-n-k-y: 225px;
+$-p-i-n-k-offset-x: 0px;
+$-p-i-n-k-offset-y: -225px;
+$-p-i-n-k-width: 146px;
+$-p-i-n-k-height: 40px;
+$-p-i-n-k-total-width: 294px;
+$-p-i-n-k-total-height: 2182px;
+$-p-i-n-k-image: 'sprite.png';
+$-p-i-n-k: (0px, 225px, 0px, -225px, 146px, 40px, 294px, 2182px, 'sprite.png', 'PINK', );
+$no-name: 'no';
+$no-x: 0px;
+$no-y: 99px;
+$no-offset-x: 0px;
+$no-offset-y: -99px;
+$no-width: 26px;
+$no-height: 26px;
+$no-total-width: 294px;
+$no-total-height: 2182px;
+$no-image: 'sprite.png';
+$no: (0px, 99px, 0px, -99px, 26px, 26px, 294px, 2182px, 'sprite.png', 'no', );
+$shadow-name: 'shadow';
+$shadow-x: 0px;
+$shadow-y: 0px;
+$shadow-offset-x: 0px;
+$shadow-offset-y: 0px;
+$shadow-width: 294px;
+$shadow-height: 17px;
+$shadow-total-width: 294px;
+$shadow-total-height: 2182px;
+$shadow-image: 'sprite.png';
+$shadow: (0px, 0px, 0px, 0px, 294px, 17px, 294px, 2182px, 'sprite.png', 'shadow', );
+$yes-name: 'yes';
+$yes-x: 0px;
+$yes-y: 47px;
+$yes-offset-x: 0px;
+$yes-offset-y: -47px;
+$yes-width: 29px;
+$yes-height: 22px;
+$yes-total-width: 294px;
+$yes-total-height: 2182px;
+$yes-image: 'sprite.png';
+$yes: (0px, 47px, 0px, -47px, 29px, 22px, 294px, 2182px, 'sprite.png', 'yes', );
+$spritesheet-width: 294px;
+$spritesheet-height: 2182px;
+$spritesheet-image: 'sprite.png';
+$spritesheet-sprites: ($-h-i-t, $-iphone-screen-1-copy, $-iphone-screen-2-copy-3, $-iphone-screen-3-copy-2, $-iphone-screen-3-big, $-p-i-n-k-copy-2, $-p-i-n-k, $no, $shadow, $yes, );
+$spritesheet: (294px, 2182px, 'sprite.png', $spritesheet-sprites, );
+
+/*
+The provided mixins are intended to be used with the array-like variables
+
+.icon-home {
+  @include sprite-width($icon-home);
+}
+
+.icon-email {
+  @include sprite($icon-email);
+}
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+@mixin sprite-width($sprite) {
+  width: nth($sprite, 5);
+}
+
+@mixin sprite-height($sprite) {
+  height: nth($sprite, 6);
+}
+
+@mixin sprite-position($sprite) {
+  $sprite-offset-x: nth($sprite, 3);
+  $sprite-offset-y: nth($sprite, 4);
+  background-position: $sprite-offset-x  $sprite-offset-y;
+}
+
+@mixin sprite-image($sprite) {
+  $sprite-image: nth($sprite, 9);
+  background-image: url(#{$sprite-image});
+}
+
+@mixin sprite($sprite) {
+  @include sprite-image($sprite);
+  @include sprite-position($sprite);
+  @include sprite-width($sprite);
+  @include sprite-height($sprite);
+}
+
+/*
+The `sprites` mixin generates identical output to the CSS template
+  but can be overridden inside of SCSS
+
+@include sprites($spritesheet-sprites);
+*/
+@mixin sprites($sprites) {
+  @each $sprite in $sprites {
+    $sprite-name: nth($sprite, 10);
+    .#{$sprite-name} {
+      @include sprite($sprite);
+    }
+  }
+}

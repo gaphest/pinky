@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="42" viewBox="0 0 22 42">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <image id="right_arrow" data-name="right arrow" class="cls-1" width="22" height="42" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAqBAMAAABFIrbeAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAKlBMVEUoNkX///8oNkUoNkUoNkUoNkUoNkUoNkUoNkUoNkUoNkUoNkUoNkUAAACvlIoaAAAADXRSTlMAAA4KSB1NEwU/MDorR6CHwAAAAAFiS0dEDfa0YfUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfgCAgQJC4eTJ0VAAAAnElEQVQY003RvQ3CMBCG4RMSIu1R0SejoNRJwwaORFgCSi9gpWQghsL3f6kefW8RW4YR5ENEuC/hRwmft8Vtga2BrUEsQSxBzUHNwUzBTMHdg7uH8GVe3TCV8KkHSMF9nVc3TiVcd/etHe76/BiHdmCaMc2YZkyzur7e5qF9/V70SzXNZj6JmGe1HJAts1jPTdaZbdch68z+xVv/AWoaLQar4RlGAAAAAElFTkSuQmCC"/>
+</svg>
